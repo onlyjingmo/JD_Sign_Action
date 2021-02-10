@@ -30,7 +30,9 @@
 
 * github 授权登录[Server酱](http://sc.ftqq.com/3.version)官网
 * 在`发送消息`拷贝SCKEY
-
+ 
+ 加点东西
+ 好自己启动
 
 
 ## 效果截图
